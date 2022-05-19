@@ -1,0 +1,11 @@
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.cache
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb

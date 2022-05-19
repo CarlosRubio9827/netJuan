@@ -1,0 +1,11 @@
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe.config
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.AreaTriangulo.resources
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.Properties.Resources.resources
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.GenerateResource.cache
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\rubio\Documents\Taller 1 .net\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb

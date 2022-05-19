@@ -1,0 +1,11 @@
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\bin\Debug\Ejercicio6AreaDelCuadrado.exe.config
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\bin\Debug\Ejercicio6AreaDelCuadrado.exe
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\bin\Debug\Ejercicio6AreaDelCuadrado.pdb
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\obj\Debug\Ejercicio6AreaDelCuadrado.csproj.AssemblyReference.cache
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\obj\Debug\Ejercicio6AreaDelCuadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\obj\Debug\Ejercicio6AreaDelCuadrado.Form1.resources
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\obj\Debug\Ejercicio6AreaDelCuadrado.Properties.Resources.resources
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\obj\Debug\Ejercicio6AreaDelCuadrado.csproj.GenerateResource.cache
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\obj\Debug\Ejercicio6AreaDelCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\obj\Debug\Ejercicio6AreaDelCuadrado.exe
+C:\Users\rubio\Documents\Taller 1 .net\Ejercicio6AreaDelCuadrado\Ejercicio6AreaDelCuadrado\obj\Debug\Ejercicio6AreaDelCuadrado.pdb

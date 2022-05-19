@@ -1,0 +1,12 @@
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\bin\Debug\Taller1.exe.config
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\bin\Debug\Taller1.exe
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\bin\Debug\Taller1.pdb
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\obj\Debug\Taller1.csproj.AssemblyReference.cache
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\obj\Debug\Taller1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\obj\Debug\Taller1.Form1.resources
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\obj\Debug\Taller1.Properties.Resources.resources
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\obj\Debug\Taller1.csproj.GenerateResource.cache
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\obj\Debug\Taller1.csproj.CoreCompileInputs.cache
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\obj\Debug\Taller1.exe
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\obj\Debug\Taller1.pdb
+C:\Users\rubio\Documents\Taller 1 .net\Taller1\Taller1\obj\Debug\AreaTriangulo.AreaTriangulo.resources
